@@ -18,7 +18,7 @@ Front-end layout and control are developed in Bootstrap and JQuery.
 ----
 ----
 
-image::images/Stayhomepage.png[]
+image::images/Stayhomepage.PNG[]
 
 ----
 ----
@@ -91,16 +91,14 @@ after installing the components run the following scripts:
 ./python initdatabase.py
 ----
 
-- start the app and go to 
-
-:hide-uri-scheme:
-
-http://localhost:5000/
+- start the app 
 
 [subs="attributes"]
 ----
 ./python app.py
 ----
+
+and go to :hide-uri-scheme: http://localhost:5000/
 
 - you can always clean up the database!
 
