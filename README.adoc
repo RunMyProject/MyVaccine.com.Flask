@@ -7,13 +7,15 @@
 
 = Welcome to MyVaccine!
 
-Description of the Project: My Vaccine is a fast ticket booking system for vaccinations against current new Viruses and their Mutations.
+- Description of the Project:
+
+MyVaccine is a fast ticket booking system for vaccinations against current new Viruses and their Mutations.
 
 The Project is based on Python 3.9 for Back-end and Flask 1.1. to manage the Front-end.
 The Database is managed by GraphQL, Graphene and SQLAlchemy.
 Front-end layout and control are developed in Bootstrap and JQuery.
 
-== Stay Home Page
+- Stay Home Page
 
 ----
 ----
@@ -98,7 +100,7 @@ after installing the components run the following scripts:
 ./python app.py
 ----
 
-and go to :hide-uri-scheme: http://localhost:5000/
+and go to http://localhost:5000/
 
 - you can always clean up the database!
 
@@ -108,7 +110,7 @@ and go to :hide-uri-scheme: http://localhost:5000/
 ----
 
 [[initial]]
-== Description of the architecture
+== Description of the Architecture
 
 [subs="attributes"]
 ----
