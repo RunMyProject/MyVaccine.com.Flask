@@ -1,0 +1,29 @@
+{
+  "name": "myvaccine.com.flask",
+  "version": "1.0.0",
+  "description": "installazione di Flask in Python\r ...................................\r 0) pip install flask",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Edoardo Sabatini",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^15.5.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RunMyProject"
+  },
+  "keywords": [
+    "Python",
+    "Flask",
+    "GraphQL",
+    "Graphene",
+    "SQLAlchemy",
+    "Bootstrap",
+    "JQuery"
+  ]
+}
